@@ -1,0 +1,5 @@
+num_classes,Tipo
+1,'Duas Classes'
+2,'Multiclasse'
+3,'Regressao'
+4,'Detecao de anomalias'
